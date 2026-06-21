@@ -26,4 +26,4 @@ Early-stage project. Small by design.
 
 ## License
 
-MIT
+[MIT](./LICENSE)
